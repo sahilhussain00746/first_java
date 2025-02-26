@@ -1,1 +1,2 @@
-# first_java
+# DictionaryApp
+My Dictionary App
